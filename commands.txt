@@ -1,0 +1,19 @@
+clear-unix
+cls-cmd
+ls -l
+pwd-present working directory
+mkdir sample1 - make directory
+control c - comeout
+cat > eg1.txt - create a file ( and overwrite the existing file)
+cat > eg1 - create a file ''
+in unix the filename is not case sensitive
+cat eg1.txt (to voiew the content in that file)
+cp eg1.txt eg2.txt - copy the file
+mv eg2.txt eg3.txt - (move the file or rename the file)
+ rm eg3.txt - remove the file
+head eg2.txt (display top 19 lines)
+tail eg2.txt (display bottom 10 lines)
+rmdir sample1 ( remove the directory)
+chmod u+rwx eg1.txt - (u means user/owner)
+tar -czf egzip.tar.gz eg1.txt - for tar
+ tar -xf egzip.tar.gz - for extract the zip file.
