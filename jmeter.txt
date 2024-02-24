@@ -1,0 +1,1 @@
+jmeter -n -t "D:/Jmtest/bunny test plan.jmx" -l "D:/Jmtest/log.csv" -e -o "D:/Jmtest/Bunnyreport"
